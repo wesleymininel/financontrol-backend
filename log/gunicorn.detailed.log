@@ -1,0 +1,42 @@
+[2024-06-27 23:12:35,247] INFO _log() L97   127.0.0.1 - - [27/Jun/2024 23:12:35] "[36mGET /openapi/static/images/swagger.svg HTTP/1.1[0m" 304 - - call_trace=D:\PUC-RIO\MVP\financontrol-backend\env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-06-27 23:13:26,057] INFO _log() L97   [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.15.18:5000 - call_trace=D:\PUC-RIO\MVP\financontrol-backend\env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-06-27 23:13:26,059] INFO _log() L97   [33mPress CTRL+C to quit[0m - call_trace=D:\PUC-RIO\MVP\financontrol-backend\env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-06-27 23:13:28,299] INFO _log() L97   127.0.0.1 - - [27/Jun/2024 23:13:28] "GET /openapi/swagger HTTP/1.1" 200 - - call_trace=D:\PUC-RIO\MVP\financontrol-backend\env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-06-27 23:13:28,488] INFO _log() L97   127.0.0.1 - - [27/Jun/2024 23:13:28] "[36mGET /openapi/static/css/swagger-ui.css HTTP/1.1[0m" 304 - - call_trace=D:\PUC-RIO\MVP\financontrol-backend\env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-06-27 23:13:28,546] INFO _log() L97   127.0.0.1 - - [27/Jun/2024 23:13:28] "[36mGET /openapi/static/js/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 - - call_trace=D:\PUC-RIO\MVP\financontrol-backend\env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-06-27 23:13:28,563] INFO _log() L97   127.0.0.1 - - [27/Jun/2024 23:13:28] "[36mGET /openapi/static/js/swagger-ui-bundle.js HTTP/1.1[0m" 304 - - call_trace=D:\PUC-RIO\MVP\financontrol-backend\env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-06-27 23:13:28,769] INFO _log() L97   127.0.0.1 - - [27/Jun/2024 23:13:28] "GET /openapi/openapi.json HTTP/1.1" 200 - - call_trace=D:\PUC-RIO\MVP\financontrol-backend\env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-06-27 23:13:28,778] INFO _log() L97   127.0.0.1 - - [27/Jun/2024 23:13:28] "[36mGET /openapi/static/images/swagger.svg HTTP/1.1[0m" 304 - - call_trace=D:\PUC-RIO\MVP\financontrol-backend\env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-06-27 23:14:00,619] INFO _log() L97   127.0.0.1 - - [27/Jun/2024 23:14:00] "POST /addfatura HTTP/1.1" 200 - - call_trace=D:\PUC-RIO\MVP\financontrol-backend\env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-06-27 23:15:36,950] INFO _log() L97   [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.15.18:5000 - call_trace=D:\PUC-RIO\MVP\financontrol-backend\env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-06-27 23:15:36,953] INFO _log() L97   [33mPress CTRL+C to quit[0m - call_trace=D:\PUC-RIO\MVP\financontrol-backend\env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-06-27 23:15:40,231] INFO _log() L97   127.0.0.1 - - [27/Jun/2024 23:15:40] "GET /openapi/swagger HTTP/1.1" 200 - - call_trace=D:\PUC-RIO\MVP\financontrol-backend\env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-06-27 23:15:40,361] INFO _log() L97   127.0.0.1 - - [27/Jun/2024 23:15:40] "[36mGET /openapi/static/css/swagger-ui.css HTTP/1.1[0m" 304 - - call_trace=D:\PUC-RIO\MVP\financontrol-backend\env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-06-27 23:15:40,406] INFO _log() L97   127.0.0.1 - - [27/Jun/2024 23:15:40] "[36mGET /openapi/static/js/swagger-ui-bundle.js HTTP/1.1[0m" 304 - - call_trace=D:\PUC-RIO\MVP\financontrol-backend\env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-06-27 23:15:40,408] INFO _log() L97   127.0.0.1 - - [27/Jun/2024 23:15:40] "[36mGET /openapi/static/js/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 - - call_trace=D:\PUC-RIO\MVP\financontrol-backend\env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-06-27 23:15:40,538] INFO _log() L97   127.0.0.1 - - [27/Jun/2024 23:15:40] "GET /openapi/openapi.json HTTP/1.1" 200 - - call_trace=D:\PUC-RIO\MVP\financontrol-backend\env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-06-27 23:15:40,576] INFO _log() L97   127.0.0.1 - - [27/Jun/2024 23:15:40] "[36mGET /openapi/static/images/swagger.svg HTTP/1.1[0m" 304 - - call_trace=D:\PUC-RIO\MVP\financontrol-backend\env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-01 18:10:24,637] INFO _log() L97   [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.15.19:5000 - call_trace=D:\PUC-RIO\MVP\financontrol-backend\env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-01 18:10:24,639] INFO _log() L97   [33mPress CTRL+C to quit[0m - call_trace=D:\PUC-RIO\MVP\financontrol-backend\env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-01 18:11:54,675] INFO _log() L97   127.0.0.1 - - [01/Jul/2024 18:11:54] "[32mGET / HTTP/1.1[0m" 302 - - call_trace=D:\PUC-RIO\MVP\financontrol-backend\env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-01 18:11:54,681] INFO _log() L97   127.0.0.1 - - [01/Jul/2024 18:11:54] "[32mGET /openapi HTTP/1.1[0m" 308 - - call_trace=D:\PUC-RIO\MVP\financontrol-backend\env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-01 18:11:54,931] INFO _log() L97   127.0.0.1 - - [01/Jul/2024 18:11:54] "GET /openapi/ HTTP/1.1" 200 - - call_trace=D:\PUC-RIO\MVP\financontrol-backend\env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-01 18:11:55,481] INFO _log() L97   127.0.0.1 - - [01/Jul/2024 18:11:55] "GET /openapi/static/images/swagger.svg HTTP/1.1" 200 - - call_trace=D:\PUC-RIO\MVP\financontrol-backend\env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-01 18:11:55,481] INFO _log() L97   127.0.0.1 - - [01/Jul/2024 18:11:55] "GET /openapi/static/images/redoc.svg HTTP/1.1" 200 - - call_trace=D:\PUC-RIO\MVP\financontrol-backend\env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-01 18:11:55,483] INFO _log() L97   127.0.0.1 - - [01/Jul/2024 18:11:55] "GET /openapi/static/images/rapidoc.svg HTTP/1.1" 200 - - call_trace=D:\PUC-RIO\MVP\financontrol-backend\env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-01 18:11:55,592] INFO _log() L97   127.0.0.1 - - [01/Jul/2024 18:11:55] "GET /openapi/static/images/apidoc.svg HTTP/1.1" 200 - - call_trace=D:\PUC-RIO\MVP\financontrol-backend\env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-01 18:11:56,343] INFO _log() L97   127.0.0.1 - - [01/Jul/2024 18:11:56] "GET /openapi/swagger HTTP/1.1" 200 - - call_trace=D:\PUC-RIO\MVP\financontrol-backend\env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-01 18:11:56,665] INFO _log() L97   127.0.0.1 - - [01/Jul/2024 18:11:56] "GET /openapi/static/css/swagger-ui.css HTTP/1.1" 200 - - call_trace=D:\PUC-RIO\MVP\financontrol-backend\env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-01 18:11:56,847] INFO _log() L97   127.0.0.1 - - [01/Jul/2024 18:11:56] "GET /openapi/static/js/swagger-ui-standalone-preset.js HTTP/1.1" 200 - - call_trace=D:\PUC-RIO\MVP\financontrol-backend\env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-01 18:11:57,034] INFO _log() L97   127.0.0.1 - - [01/Jul/2024 18:11:57] "GET /openapi/static/js/swagger-ui-bundle.js HTTP/1.1" 200 - - call_trace=D:\PUC-RIO\MVP\financontrol-backend\env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-01 18:11:57,899] INFO _log() L97   127.0.0.1 - - [01/Jul/2024 18:11:57] "GET /openapi/openapi.json HTTP/1.1" 200 - - call_trace=D:\PUC-RIO\MVP\financontrol-backend\env\Lib\site-packages\werkzeug\_internal.py L97  
+[2024-07-01 18:11:57,942] INFO _log() L97   127.0.0.1 - - [01/Jul/2024 18:11:57] "[36mGET /openapi/static/images/swagger.svg HTTP/1.1[0m" 304 - - call_trace=D:\PUC-RIO\MVP\financontrol-backend\env\Lib\site-packages\werkzeug\_internal.py L97  
